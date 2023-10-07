@@ -1,0 +1,167 @@
+HEADER                                                        IL1B_POCKET3_REC
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION. 1.47 ANGSTROMS.                                 
+REMARK   3                                                              
+REMARK   3 REFINEMENT OR HYDROGEN PLACEMENT:                            
+REMARK   3   PROGRAM 1                  ICM 3.9                     
+REMARK   3   AUTHORS 1      R.ABAGYAN, M.TOTROV                         
+REMARK  76                                                              
+REMARK  76 INTERLEUKIN-1 BETA; CHAIN: A; SYNONYM: IL-1 BETA,CATABOLIN; E
+REMARK 800                                                             
+REMARK 800 SITE                                                        
+REMARK 800 SITE_IDENTIFIER: AC1                                    
+REMARK 800 SITE_DESCRIPTION: ID:MISS_RES  153 ser                                        
+REMARK 800                                                             
+REMARK 800 SITE                                                        
+REMARK 800 SITE_IDENTIFIER: AC2                                    
+REMARK 800 SITE_DESCRIPTION: ID:ac1 binding site for residue so4 a 201                   
+REMARK 800                                                             
+REMARK 800 SITE                                                        
+REMARK 800 SITE_IDENTIFIER: AC3                                    
+REMARK 800 SITE_DESCRIPTION: ID:ac2 binding site for residue so4 a 202                   
+REMARK 800                                                             
+REMARK 800 SITE                                                        
+REMARK 800 SITE_IDENTIFIER: AC4                                    
+REMARK 800 SITE_DESCRIPTION: ID:ac3 binding site for residue s7g a 203                   
+SEQRES   1 A  153  ALA PRO VAL ARG SER LEU ASN CYS THR LEU ARG ASP SER 
+SEQRES   2 A  153  GLN GLN LYS SER LEU VAL MET SER GLY PRO TYR GLU LEU 
+SEQRES   3 A  153  LYS ALA LEU HIS LEU GLN GLY GLN ASP MET GLU GLN GLN 
+SEQRES   4 A  153  VAL VAL PHE SER MET SER PHE VAL GLN GLY GLU GLU SER 
+SEQRES   5 A  153  ASN ASP LYS ILE PRO VAL ALA LEU GLY LEU LYS GLU LYS 
+SEQRES   6 A  153  ASN LEU TYR LEU SER CYS VAL LEU LYS ASP ASP LYS PRO 
+SEQRES   7 A  153  THR LEU GLN LEU GLU SER VAL ASP PRO LYS ASN TYR PRO 
+SEQRES   8 A  153  LYS LYS LYS MET GLU LYS ARG PHE VAL PHE ASN LYS ILE 
+SEQRES   9 A  153  GLU ILE ASN ASN LYS LEU GLU PHE GLU SER ALA GLN PHE 
+SEQRES  10 A  153  PRO ASN TRP TYR ILE SER THR SER GLN ALA GLU ASN MET 
+SEQRES  11 A  153  PRO VAL PHE LEU GLY GLY THR LYS GLY GLY GLN ASP ILE 
+SEQRES  12 A  153  THR ASP PHE THR MET GLN PHE VAL SER SER             
+HELIX    1   1 GLY A   33  GLN A   38  1                                   6
+HELIX    2   2 SER A   52  SER A   52  1                                   1
+HELIX    3   3 LYS A   97  PHE A   99  1                                   3
+HELIX    4   4 THR A  124  THR A  124  1                                   1
+HELIX    5   5 ILE A  143  ILE A  143  1                                   1
+SHEET    1   1 1 ARG A   4  ASP A  12  0
+SHEET    2   2 1 SER A  17  MET A  20  0
+SHEET    3   3 1 LEU A  26  LEU A  29  0
+SHEET    4   4 1 PHE A  42  PHE A  46  0
+SHEET    5   5 1 LYS A  55  LEU A  62  0
+SHEET    6   6 1 LEU A  67  LYS A  74  0
+SHEET    7   7 1 LYS A  77  SER A  84  0
+SHEET    8   8 1 VAL A 100  ILE A 106  0
+SHEET    9   9 1 LYS A 109  SER A 114  0
+SHEET   10  10 1 TYR A 121  SER A 123  0
+SHEET   11  11 1 MET A 130  PRO A 131  0
+SHEET   12  12 1 PHE A 133  GLY A 135  0
+SHEET   13  13 1 PHE A 146  PHE A 150  0
+SITE     1 AC1  1 SER A 152  
+SITE     1 AC2  4 ALA A   1  VAL A   3  LYS A  92  LYS A  93  
+SITE     1 AC3  1 ARG A  98  
+SITE     1 AC4  5 MET A  20  GLU A  37  GLN A  38  VAL A  41  
+SITE     2 AC4  5 LYS A  65  
+CRYST1   54.600   54.600   75.260  90.00  90.00  90.00 P 43          4
+TER    2426      SER A 152
+HETATM 2427  H01 RES     1      49.603   7.536  62.275  1.00  0.00           H
+HETATM 2428  C1  RES     1      48.822   7.468  57.486  1.00  0.00           C
+HETATM 2429  N1  RES     1      49.066   6.947  59.906  1.00  0.00           N
+HETATM 2430  O1  RES     1      47.871   7.354  62.872  1.00  0.00           O
+HETATM 2431  C10 RES     1      52.255   5.721  62.710  1.00  0.00           C
+HETATM 2432 1H10 RES     1      52.512   5.331  61.722  1.00  0.00           H
+HETATM 2433 2H10 RES     1      53.196   5.806  63.263  1.00  0.00           H
+HETATM 2434  H11 RES     1      49.708   8.109  57.539  1.00  0.00           H
+HETATM 2435  C11 RES     1      51.365   4.706  63.417  1.00  0.00           C
+HETATM 2436 1H11 RES     1      50.379   4.652  62.944  1.00  0.00           H
+HETATM 2437 2H11 RES     1      51.837   3.723  63.336  1.00  0.00           H
+HETATM 2438  H12 RES     1      47.944   8.109  57.593  1.00  0.00           H
+HETATM 2439  C12 RES     1      50.808   4.019  65.708  1.00  0.00           C
+HETATM 2440  H13 RES     1      48.787   7.028  56.484  1.00  0.00           H
+HETATM 2441  C13 RES     1      49.608   3.217  65.191  1.00  0.00           C
+HETATM 2442 1H13 RES     1      49.251   2.502  65.938  1.00  0.00           H
+HETATM 2443 2H13 RES     1      49.853   2.651  64.288  1.00  0.00           H
+HETATM 2444 3H13 RES     1      48.779   3.876  64.929  1.00  0.00           H
+HETATM 2445  C14 RES     1      50.413   4.724  67.006  1.00  0.00           C
+HETATM 2446 1H14 RES     1      51.259   5.277  67.425  1.00  0.00           H
+HETATM 2447 2H14 RES     1      50.055   4.021  67.766  1.00  0.00           H
+HETATM 2448 3H14 RES     1      49.632   5.467  66.823  1.00  0.00           H
+HETATM 2449  C15 RES     1      51.985   3.081  65.996  1.00  0.00           C
+HETATM 2450 1H15 RES     1      52.297   2.528  65.105  1.00  0.00           H
+HETATM 2451 2H15 RES     1      51.735   2.347  66.769  1.00  0.00           H
+HETATM 2452 3H15 RES     1      52.861   3.641  66.333  1.00  0.00           H
+HETATM 2453  C2  RES     1      48.871   6.380  58.557  1.00  0.00           C
+HETATM 2454  N2  RES     1      50.428   7.191  61.803  1.00  0.00           N
+HETATM 2455  O2  RES     1      51.212   5.074  64.798  1.00  0.00           O
+HETATM 2456  H21 RES     1      49.740   5.756  58.326  1.00  0.00           H
+HETATM 2457  C3  RES     1      47.655   5.459  58.470  1.00  0.00           C
+HETATM 2458  O3  RES     1      51.299   6.409  59.860  1.00  0.00           O
+HETATM 2459  H31 RES     1      46.732   6.020  58.642  1.00  0.00           H
+HETATM 2460  H32 RES     1      47.709   4.666  59.222  1.00  0.00           H
+HETATM 2461  H33 RES     1      47.571   4.974  57.493  1.00  0.00           H
+HETATM 2462  C4  RES     1      47.955   7.711  60.503  1.00  0.00           C
+HETATM 2463  H41 RES     1      48.360   8.666  60.856  1.00  0.00           H
+HETATM 2464  H42 RES     1      47.249   7.941  59.705  1.00  0.00           H
+HETATM 2465  C5  RES     1      47.224   6.985  61.640  1.00  0.00           C
+HETATM 2466  H51 RES     1      47.282   5.901  61.489  1.00  0.00           H
+HETATM 2467  C6  RES     1      45.764   7.413  61.710  1.00  0.00           C
+HETATM 2468  H61 RES     1      45.683   8.476  61.954  1.00  0.00           H
+HETATM 2469  H62 RES     1      45.237   6.873  62.500  1.00  0.00           H
+HETATM 2470  H63 RES     1      45.245   7.223  60.766  1.00  0.00           H
+HETATM 2471  C7  RES     1      47.625   6.422  63.925  1.00  0.00           C
+HETATM 2472  H71 RES     1      46.601   6.527  64.294  1.00  0.00           H
+HETATM 2473  H72 RES     1      48.319   6.635  64.742  1.00  0.00           H
+HETATM 2474  H73 RES     1      47.805   5.402  63.578  1.00  0.00           H
+HETATM 2475  C8  RES     1      50.335   6.832  60.479  1.00  0.00           C
+HETATM 2476  C9  RES     1      51.653   7.125  62.583  1.00  0.00           C
+HETATM 2477  H91 RES     1      52.379   7.789  62.103  1.00  0.00           H
+HETATM 2478  H92 RES     1      51.430   7.542  63.570  1.00  0.00           H
+CONECT 2432 2431
+CONECT 2436 2435
+CONECT 2442 2441
+CONECT 2446 2445
+CONECT 2450 2449
+CONECT 2433 2431
+CONECT 2437 2435
+CONECT 2443 2441
+CONECT 2447 2445
+CONECT 2451 2449
+CONECT 2444 2441
+CONECT 2448 2445
+CONECT 2452 2449
+CONECT 2428 2434 2438 2440 2453
+CONECT 2431 2476 2432 2433 2435
+CONECT 2435 2431 2436 2437 2455
+CONECT 2439 2441 2445 2449 2455
+CONECT 2441 2439 2442 2443 2444
+CONECT 2445 2439 2446 2447 2448
+CONECT 2449 2439 2450 2451 2452
+CONECT 2453 2428 2429 2456 2457
+CONECT 2457 2453 2459 2460 2461
+CONECT 2462 2429 2463 2464 2465
+CONECT 2465 2430 2462 2466 2467
+CONECT 2467 2465 2468 2469 2470
+CONECT 2471 2474 2473 2430 2472
+CONECT 2475 2429 2454 2458
+CONECT 2476 2477 2478 2431 2454
+CONECT 2427 2454
+CONECT 2434 2428
+CONECT 2438 2428
+CONECT 2440 2428
+CONECT 2456 2453
+CONECT 2459 2457
+CONECT 2460 2457
+CONECT 2461 2457
+CONECT 2463 2462
+CONECT 2464 2462
+CONECT 2466 2465
+CONECT 2468 2467
+CONECT 2469 2467
+CONECT 2470 2467
+CONECT 2472 2471
+CONECT 2473 2471
+CONECT 2474 2471
+CONECT 2477 2476
+CONECT 2478 2476
+CONECT 2429 2475 2453 2462
+CONECT 2454 2475 2476 2427
+CONECT 2430 2465 2471
+CONECT 2455 2435 2439
+CONECT 2458 2475
+END
