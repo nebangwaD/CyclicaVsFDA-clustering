@@ -1,2 +1,2 @@
-# CyclicaVsFDA-clustering
+# FDA Drug clustering
 Comparing structural features between FDA compounds and Cyclica screens
